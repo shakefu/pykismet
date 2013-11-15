@@ -1,4 +1,6 @@
-pykismet
-========
+PyKismet - Python client for the Akismet API
+============================================
 
-Python client for Akismet API
+PyKismet is a simple, thread safe python client for the Akismet API, based on
+urllib3.
+
