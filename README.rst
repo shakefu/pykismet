@@ -5,7 +5,7 @@ PyKismet is a simple, thread safe, Python client for the Akismet API, based on
 urllib3.
 
 
-Example usage:
+.. rubric:: Example usage:
 
 .. code-block:: python
 
